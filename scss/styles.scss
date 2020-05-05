@@ -385,9 +385,9 @@ footer {
     }
 
     h3 {
-        color: #a83457;
+        color: lighten($base-color, 25%);
         font-weight: 500;
-        font-size: 2.25em;
+        font-size: 1.25em;
         margin-bottom: 15px;
     }
 }
