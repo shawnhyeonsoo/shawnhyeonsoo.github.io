@@ -701,7 +701,7 @@ footer {
   .project-info {
     position: relative;
     margin: 0;
-    padding: 10px 5px;
+    padding: 30px 15px;
     top: auto;
     transform: none; }
 
@@ -733,7 +733,7 @@ footer {
 
 .algorithm_training_log {
   position: relative;
-  max-width: 1000px;
+  max-width: 900px;
   margin: 0 auto 30px auto;
   overflow: hidden;
   background: #fff;
