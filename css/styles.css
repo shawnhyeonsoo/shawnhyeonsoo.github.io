@@ -733,7 +733,7 @@ footer {
 
 .algorithm_training_log {
   position: relative;
-  max-width: 900px;
+  max-width: 1000px;
   margin: 0 auto 30px auto;
   overflow: hidden;
   background: #fff;
@@ -744,10 +744,10 @@ footer {
 
 .project-info {
   position: absolute;
-  top: 30%;
+  top: 50%;
   transform: translateY(-50%);
-  margin-left: 100px;
-  padding: 5px; }
+  margin-left: 300px;
+  padding: 15px; }
   .project-info h3 {
     font-size: 1.5em;
     font-weight: 300;
