@@ -478,8 +478,8 @@ footer {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  margin-left: 330px;
-  padding: 10px; }
+  margin-left: 150px;
+  padding: 15px; }
   .project-info h3 {
     font-size: 1.5em;
     font-weight: 300;
